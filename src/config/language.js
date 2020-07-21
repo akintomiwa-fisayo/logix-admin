@@ -18,7 +18,7 @@ export default {
     name:'Name',
     commission: "Commission",
     client_referral: "Client Referral",
-    ride_referral: "Ride Referral",
+    ride_referral: "Rider Referral",
     duration: "Duration",
     rate: "Rate",
     rate_per_km:'Rate Per Kilometer',
